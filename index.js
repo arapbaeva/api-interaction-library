@@ -1,3 +1,4 @@
+
 /**
  * Represents a REST client for making API requests.
  */
